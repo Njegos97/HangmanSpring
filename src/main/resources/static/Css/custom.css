@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("../images/Background1.png"); 
+   
+	
+}
+
+.card {
+  background-color: rgba(126, 123, 215, 0.2);
+  color: white;
+}
+
+.profileBg{
+	background-image: url("../images/Profile2.jpg"); 
+}
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #ccc;
+    margin: 1em 0; padding: 0; }
